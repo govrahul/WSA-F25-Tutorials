@@ -1,1 +1,1 @@
-# WSA-F25-Tutorials
+# WSA-F25 Tutorial Group
