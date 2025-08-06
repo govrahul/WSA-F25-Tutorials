@@ -1,0 +1,40 @@
+G,Date,Time,Type,Unnamed: 4,Opponent,Conf,SRS,Unnamed: 8,Tm,Opp,OT,W,L,Streak,Arena
+1,"Mon, Nov 4, 2024",8:00p,REG,,Cleveland State,Horizon,-1.55,W,101,53,,1,0,W 1,Crisler Arena
+2,"Sun, Nov 10, 2024",1:00p,REG,N,Wake Forest,ACC,9.63,L,70,72,,1,1,L 1,First Horizon Coliseum
+3,"Fri, Nov 15, 2024",6:00p,REG,,TCU,Big 12,10.49,W,76,64,,2,1,W 1,Crisler Arena
+4,"Mon, Nov 18, 2024",6:00p,REG,,Miami (OH),MAC,-0.92,W,94,67,,3,1,W 2,Crisler Arena
+5,"Thu, Nov 21, 2024",8:30p,REG,,Tarleton State,WAC,-10.31,W,72,49,,4,1,W 3,Crisler Arena
+6,"Mon, Nov 25, 2024",6:00p,REG,N,Virginia Tech,ACC,2.62,W,75,63,,5,1,W 4,Suncoast Credit Union Arena
+7,"Wed, Nov 27, 2024",8:30p,REG,N,Xavier (22),Big East,15.25,W,78,53,,6,1,W 5,Suncoast Credit Union Arena
+8,"Tue, Dec 3, 2024",9:00p,REG,@,Wisconsin (11),Big Ten,20.73,W,67,64,,7,1,W 6,Kohl Center
+9,"Sat, Dec 7, 2024",2:00p,REG,,Iowa,Big Ten,12.85,W,85,83,,8,1,W 7,Crisler Arena
+10,"Tue, Dec 10, 2024",9:00p,REG,N,Arkansas,SEC,17.09,L,87,89,,8,2,L 1,Madison Square Garden (IV)
+11,"Wed, Dec 18, 2024",9:00p,REG,N,Oklahoma (14),SEC,14.86,L,86,87,,8,3,L 2,Spectrum Center
+12,"Sun, Dec 22, 2024",1:00p,REG,,Purdue Fort Wayne,Horizon,-1.00,W,89,58,,9,3,W 1,Crisler Arena
+13,"Sun, Dec 29, 2024",8:00p,REG,,Western Kentucky,CUSA,-0.50,W,112,64,,10,3,W 2,Crisler Arena
+14,"Sat, Jan 4, 2025",8:00p,REG,@,Southern California,Big Ten,12.97,W,85,74,,11,3,W 3,Galen Center
+15,"Tue, Jan 7, 2025",10:00p,REG,@,UCLA (22),Big Ten,19.68,W,94,75,,12,3,W 4,Pauley Pavilion
+16,"Sun, Jan 12, 2025",2:00p,REG,,Washington,Big Ten,6.26,W,91,75,,13,3,W 5,Crisler Arena
+17,"Thu, Jan 16, 2025",7:00p,REG,@,Minnesota,Big Ten,8.48,L,81,84,OT,13,4,L 1,Williams Arena
+18,"Sun, Jan 19, 2025",2:00p,REG,,Northwestern,Big Ten,14.40,W,80,76,OT,14,4,W 1,Crisler Arena
+19,"Fri, Jan 24, 2025",8:00p,REG,@,Purdue (11),Big Ten,20.80,L,64,91,,14,5,L 1,Mackey Arena
+20,"Mon, Jan 27, 2025",6:30p,REG,,Penn State,Big Ten,13.57,W,76,72,,15,5,W 1,Crisler Arena
+21,"Sat, Feb 1, 2025",3:30p,REG,@,Rutgers,Big Ten,10.41,W,66,63,,16,5,W 2,Rutgers Athletic Center
+22,"Wed, Feb 5, 2025",6:30p,REG,,Oregon,Big Ten,18.00,W,80,76,,17,5,W 3,Crisler Arena
+23,"Sat, Feb 8, 2025",1:00p,REG,@,Indiana,Big Ten,14.63,W,70,67,,18,5,W 4,Assembly Hall
+24,"Tue, Feb 11, 2025",7:00p,REG,,Purdue (7),Big Ten,20.80,W,75,73,,19,5,W 5,Crisler Arena
+25,"Sun, Feb 16, 2025",1:00p,REG,@,Ohio State,Big Ten,17.86,W,86,83,,20,5,W 6,Value City Arena
+26,"Fri, Feb 21, 2025",8:00p,REG,,Michigan State (14),Big Ten,22.43,L,62,75,,20,6,L 1,Crisler Arena
+27,"Mon, Feb 24, 2025",8:00p,REG,@,Nebraska,Big Ten,13.86,W,49,46,,21,6,W 1,Pinnacle Bank Arena
+28,"Thu, Feb 27, 2025",9:00p,REG,,Rutgers,Big Ten,10.41,W,84,82,,22,6,W 2,Crisler Arena
+29,"Sun, Mar 2, 2025",3:45p,REG,,Illinois,Big Ten,21.59,L,73,93,,22,7,L 1,Crisler Arena
+30,"Wed, Mar 5, 2025",6:30p,REG,,Maryland (13),Big Ten,23.33,L,65,71,,22,8,L 2,Crisler Arena
+31,"Sun, Mar 9, 2025",12:00p,REG,@,Michigan State (8),Big Ten,22.43,L,62,79,,22,9,L 3,Breslin Events Center
+G,Date,Time,Type,,Opponent,Conf,SRS,,Tm,Opp,OT,W,L,Streak,Arena
+32,"Fri, Mar 14, 2025",9:00p,CTOURN,N,Purdue (20),Big Ten,20.80,W,86,68,,23,9,W 1,Gainbridge Fieldhouse
+33,"Sat, Mar 15, 2025",3:30p,CTOURN,N,Maryland (11),Big Ten,23.33,W,81,80,,24,9,W 2,Gainbridge Fieldhouse
+34,"Sun, Mar 16, 2025",3:30p,CTOURN,N,Wisconsin (18),Big Ten,20.73,W,59,53,,25,9,W 3,Gainbridge Fieldhouse
+G,Date,Time,Type,,Opponent,Conf,SRS,,Tm,Opp,OT,W,L,Streak,Arena
+35,"Thu, Mar 20, 2025",10:00p,NCAA,N,UC San Diego,Big West,12.63,W,68,65,,26,9,W 4,Ball Arena
+36,"Sat, Mar 22, 2025",5:15p,NCAA,N,Texas A&M (19),SEC,19.30,W,91,79,,27,9,W 5,Ball Arena
+37,"Fri, Mar 28, 2025",9:39p,NCAA,N,Auburn (4),SEC,28.68,L,65,78,,27,10,L 1,State Farm Arena
